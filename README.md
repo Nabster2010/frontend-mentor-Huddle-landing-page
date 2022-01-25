@@ -29,8 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github repo](https://github.com/Nabster2010/frontend-mentor-Huddle-landing-page)
-- Live Site URL: [live site](https://nabster2010.github.io/frontend-mentor-Huddle-landing-page
-  /)
+- Live Site URL: [live site](https://nabster2010.github.io/frontend-mentor-Huddle-landing-page/)
 
 ## My process
 
